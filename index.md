@@ -24,9 +24,9 @@ In addition to our AI translation app, we are continuously striving to develop m
 
 Thank you for your interest in Meta Innovation. Please stay tuned to our Home Page for more information about our company and products. Also, look forward to exciting screenshots of our upcoming AI translation app!
 
-<!-- ![Octocat](https://github.com/aimetainnovation/home/blob/master/assets/css/TranslateApp.png) -->
+![Octocat](https://github.com/aimetainnovation/home/blob/master/assets/css/TranslateApp.png)
 
-![translate_app_url](https://github.com/aimetainnovation/home/blob/master/assets/css/TranslateApp.png){:height="50%" width="50%"}
+<!-- ![translate_app_url](https://github.com/aimetainnovation/home/blob/master/assets/css/TranslateApp.png) -->
 
 
 #### Join us on this innovative journey to change the world!
