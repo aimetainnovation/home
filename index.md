@@ -26,7 +26,8 @@ Thank you for your interest in Meta Innovation. Please stay tuned to our Home Pa
 
 <!-- ![Octocat](https://github.com/aimetainnovation/home/blob/master/assets/css/TranslateApp.png) -->
 
-<div style="text-align: center;"> <img src ="https://github.com/aimetainnovation/home/blob/master/assets/css/TranslateApp.png" style="max-width: 50%; display: block; margin: 0 auto;"> </div>
+![translate_app_url](https://github.com/aimetainnovation/home/blob/master/assets/css/TranslateApp.png){:height="50%" width="50%"}
+
 
 #### Join us on this innovative journey to change the world!
 
