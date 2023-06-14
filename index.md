@@ -24,7 +24,7 @@ In addition to our AI translation app, we are continuously striving to develop m
 
 Thank you for your interest in Meta Innovation. Please stay tuned to our Home Page for more information about our company and products. Also, look forward to exciting screenshots of our upcoming AI translation app!
 
-Join us on this innovative journey to change the world!
+#### Join us on this innovative journey to change the world!
 
  
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
