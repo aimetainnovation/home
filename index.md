@@ -23,10 +23,7 @@ We are committed to delivering a user-friendly interface and an outstanding user
 In addition to our AI translation app, we are continuously striving to develop more innovative products that address real-world challenges. By combining artificial intelligence and innovative thinking, we will continue to introduce remarkable solutions.
 
 Thank you for your interest in Meta Innovation. Please stay tuned to our Home Page for more information about our company and products. Also, look forward to exciting screenshots of our upcoming AI translation app!
-<!-- 
-#### Preview
-![TranslateApp](https://github.com/aimetainnovation/home/blob/master/assets/TranslateApp.png)
-  -->
+
 
 #### Join us on this innovative journey to change the world!
 
